@@ -1,0 +1,290 @@
+#header-container {
+	width: 100%;
+	height: 300px;
+	background-color: white;
+}
+
+#farm-picture {
+	position: relative;
+	opacity:100%;
+	margin-left: 150px;
+}
+
+#title {
+	font-size: 50px; 
+	margin-left: 410px;
+	margin-top: -150px;
+	font-weight: 700;
+	font-family: 'Oxygen,' sans-serif;
+	color: white;
+	z-index: 4000;
+
+}
+
+#subtitle {
+	font-size: 35px;
+	margin-left: 435px;
+	margin-top: -5px;
+	font-weight: 400;
+	font-family: 'Oxygen,' sans-serif;
+	color: white;
+}
+
+#navbar-container {
+	width: 100%;
+	height: 100px;
+	margin-bottom: 200px;
+	display: inline-block;
+	
+}
+
+#navbar-img {
+	margin-top: 0px;
+	margin-left: 450px;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+li {
+	position: relative;
+	display: inline;
+	float: left;
+	z-index: 4444;
+	margin-left: 100px;
+	margin-top: 300px;
+}
+
+#nav-button1 {
+	font-family: 'Oxygen,' sans-serif;
+	color: black;
+	margin-left: 368px;
+	margin-top: -360px;
+	cursor: pointer;
+
+}
+
+#nav-button2 {
+	font-family: 'Oxygen,' sans-serif;
+	color: black;
+	margin-left: -30px;
+	margin-top: -360px;
+	cursor: pointer;
+
+}
+
+#nav-button3 {
+	font-family: 'Oxygen,' sans-serif;
+	color: black;
+	margin-left: -25px;
+	margin-top: -360px;
+	cursor: pointer;
+
+}
+
+#nav-button4 {
+	font-family: 'Oxygen,' sans-serif;
+	color: black;
+	margin-left: -44px;
+	margin-top: -360px;
+	cursor: pointer;
+}
+
+#nav-button5 {
+	font-family: 'Oxygen,' sans-serif;
+	color: black;
+	margin-left: -59px;
+	margin-top: -360px;
+	cursor: pointer;
+
+}
+
+#nav-button6 {
+	font-family: 'Oxygen,' sans-serif;
+	color: black;
+	margin-left: -59px;
+	margin-top: -360px;
+	position: absolute;
+	cursor: pointer;
+}
+
+#logo-container {
+	height: 300px;
+	width: 100px;
+	float: left;
+	margin-top: -470px;
+	margin-left: 117px;
+	z-index: 1000; 
+	position: relative;
+}
+
+#logo {
+	z-index: 1000;
+}
+
+#search-container {
+	display: inline-block;
+	width: 100%;
+	float: right;
+
+}
+
+#search-bar {
+	height:30px;
+	width: 690px;
+	margin-top: -200px;
+	margin-left: 450px;
+	margin-right: 115px;
+	background:#fff;
+    padding:3px;
+    border:1px solid #000;
+    color:#555;
+    font-size:20pt;
+    font-family: 'Oxygen,' sans-serif;
+    font-weight: 200;
+    z-index: 40;
+
+}
+
+#search-button {
+	margin-left: 1105px;
+	margin-top: -35px;
+}
+
+#news-container { 
+	width: 620px;
+	height: 400px;
+	background-color: #800080;
+	float: left;
+	margin-top: -150px;
+	margin-left: 190px;
+}
+
+#picture1 {
+	padding: 10px;
+	padding-bottom: 10px;
+	margin-top: 0px;
+	cursor: pointer;
+
+}
+
+#article-links {
+	width: 300px;
+	height: 400px;
+	background-color: #00000;
+	margin-left: 800px;
+	margin-top: -160px;
+	float: right;
+	position: absolute;
+
+}
+
+#title1-c {
+	width: 320px;
+    padding: 10px;
+    border: 5px;
+    border-color: white;
+    margin-left: 10px;
+    margin-top: 10px;
+    background-color: #800080;
+    font-family: 'Oxygen,' sans-serif;
+    font-color: white;
+    cursor: pointer;
+}
+
+#title2-c {
+	width: 320px;
+    padding: 10px;
+    border: 5px;
+    border-color: white;
+  	margin-left: 10px;
+    margin-top: 10px;
+    background-color: #FDD017;
+    font-family: 'Oxygen,' sans-serif;
+    font-color: white;
+    cursor: pointer;
+}
+
+#title3-c {
+	width: 320px;
+    padding: 10px;
+    border: 5px;
+    border-color: navy;
+    margin-left: 10px;
+    margin-top: 10px;
+    background-color: #FDD017;
+    font-family: 'Oxygen,' sans-serif;
+    font-color: white;
+    cursor: pointer;
+}
+
+#title4-c {
+	width: 320px;
+    padding: 10px;
+    border: 5px;
+    border-color: white;
+    margin-left: 10px;
+    margin-top: 10px;
+    background-color: #FDD017;
+    font-family: 'Oxygen,' sans-serif;
+    font-color: white;
+    cursor: pointer;
+}
+
+#title5-c {
+	width: 320px;
+    padding: 10px;
+    border: 5px;
+    border-color: white;
+    margin-left: 10px;
+    margin-top: 10px;
+    background-color: #FDD017;
+    font-family: 'Oxygen,' sans-serif;
+    font-color: white;
+    cursor: pointer;
+}
+
+#title6-c {
+	width: 320px;
+    padding: 10px;
+    border: 5px;
+    border-color: white;
+   	margin-left: 10px;
+    margin-top: 10px;
+    background-color: #FDD017;
+    font-family: 'Oxygen,' sans-serif;
+    font-color: white;
+    cursor: pointer;
+}
+
+#obama-container {
+	width: 100%;
+	height: 200px;
+	background-color: #00000;
+	margin-left: 300px;
+	display: inline-block;
+	font-family: 'Oxygen,' sans-serif;
+}
+
+#obama-picture {
+	margin-left: 200px;
+	margin-top: -130px;
+	border: 10px solid #800080;
+	float:left;
+
+}
+
+#obama-quote {
+	font-family: 'Oxygen,' sans-serif;
+	width: 500px;
+    padding: 70px;
+    float: right;
+    background-color: #FDD017;
+    position: absolute;
+    margin-left: 550px;
+    margin-top: -50px;
+}
+
